@@ -1,0 +1,9 @@
+ ## steps involved in the devops
+    *plan
+    *code
+    *build 
+    *test
+    *release
+    *deploy
+    * feedback
+    *monitering
