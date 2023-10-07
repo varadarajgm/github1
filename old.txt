@@ -1,0 +1,3 @@
+The developer uses git commit -m "Commit message" to commit the staged files to the repository. The developer uses git checkout -- <files> to discard changes in the working directory, if needed. The developer uses git restore --staged <files> to unstage files and move them back to the working directory, if needed.
+
+
