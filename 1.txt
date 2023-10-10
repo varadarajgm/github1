@@ -1,0 +1,4 @@
+total 4
+drwxr-xr-x. 4 ec2-user ec2-user   37 Oct  2 03:42 d1
+-rw-r--r--. 1 ec2-user ec2-user 2844 Oct  6 03:51 pom.xml
+-rw-r--r--. 1 ec2-user ec2-user    0 Oct  6 03:52 1.txt

@@ -1,0 +1,11 @@
+difference b/w hard link and soft link
+  hard link ---it shows the mirror content or data stored inside the original file 
+  soft link --- it doesnot shows the mirror content
+hard link---it shows same inode as the original in mirror
+soft link-- it has diff inode number
+hard link-- it cannot used for linking directory
+soft link-- it can be used for linking direc
+hard link ---if we delete some data in mirror image the data will remain the same why bcz it is directly connected to hard link
+soft link ----data will get deleted bcz soft link is not connected to the kernel
+ 
+
