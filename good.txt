@@ -1,3 +1,6 @@
 To see what you've changed but not yet staged, type git diff with no other arguments: ...
 If you want to see what you've staged that will go into your next commit, you can use git diff --staged .
 really don't know just trying to mfetch and merge the files  from remote to local
+dstfjgkjghjhgkjhkhfghfj
+12432527286256
+khdkshdhewhsdbdn
